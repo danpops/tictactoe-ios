@@ -1,6 +1,6 @@
 # TicTacToe on iOS
 
-TicTacToe is a simple iOS application I developed using Swift on Xcode. 
+TicTacToe is an iOS application I developed using Swift to gain knowledge in Xcode! 
 
 ## Installation
 
